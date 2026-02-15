@@ -5,7 +5,7 @@ Used the template from Rev Robotics [click here!](https://github.com/REVrobotics
 ## Description
 
 This is code for Hiphip after Programming1 Laptop incident of 2/11/26.
-No code has been changed yet. #DO NOT USE THE D-PAD WHEN RUNNING THE CODE.
+No code has been changed yet. DO NOT USE THE D-PAD WHEN RUNNING THE CODE.
 The D-Pad can be dangerous as the fulcrum may slam backwards. Fixing this is in progress.
 
 ## Prerequisites
