@@ -4,10 +4,9 @@ Used the template from Rev Robotics [click here!](https://github.com/REVrobotics
 
 ## Description
 
-This is code for Hiphip after Programming1 Laptop incident of 2/11/26 
-Running this code should be safe. It lacks D-Pad controls for the operator controller, and fulcrum must be moved manually.
-The programmers are scared to work with the fulcrum since the incident.
-Other than the D-Pad, all code should function the same as previous years.
+This is code for Hiphip after Programming1 Laptop incident of 2/11/26.
+No code has been changed yet. #DO NOT USE THE D-PAD WHEN RUNNING THE CODE.
+The D-Pad can be dangerous as the fulcrum may slam backwards. Fixing this is in progress.
 
 ## Prerequisites
 
